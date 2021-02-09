@@ -1,0 +1,15 @@
+.blog{
+    width: 40%;
+    border: 2px solid rebeccapurple;
+    border-radius: 20px;
+    margin: 3%;
+    background-color: aqua;
+    display:inline-block;
+    text-align: center;
+}
+img{
+    width: 30%;
+}
+p{
+    text-align: justify;
+}
